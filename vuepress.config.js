@@ -1,6 +1,7 @@
 const { path } = require('@vuepress/utils')
 
 module.exports = {
+    base: '/FarosVue3Library/',
     theme: path.resolve(__dirname, './docs/.vuepress/theme'),
 
     themeConfig: {
