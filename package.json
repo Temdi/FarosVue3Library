@@ -1,0 +1,20 @@
+{
+  "name": "faros-vue3-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Corentin Richard <corentin.richard@lephare.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.38"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-register-components": "^2.0.0-beta.38",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
