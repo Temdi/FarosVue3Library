@@ -1,1 +1,0 @@
-import{_ as o,o as r,c as t,a as n,r as s}from"./app.22adb295.js";const a={},_={class:"component-demo"},d={class:"bg-gray-100 p-4 border border-solid border-gray-200 rounded-lg mt-4"};function c(e,l){return r(),t("div",_,[n("div",d,[s(e.$slots,"default")])])}var i=o(a,[["render",c],["__file","ComponentDemo.vue"]]);export{i as default};
